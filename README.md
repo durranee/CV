@@ -14,7 +14,7 @@ For a complete list, see my [GitHub](https://github.com/durranee).
 
 | Project   | Description | Development Timeframe | Technologies |
 |---        |---         |---         |---           |
-|[Autonomous Car](https://github.com/snAIl-ML)| Final Project at Makers Academy, Self Driving Car. | 2 Weeks | Python, Flask, OpenCV, Tensorflow, Pytest |
+| Snail ([Web interface Github](https://github.com/snAIl-ML/snail_ML_server), [control API Github](https://github.com/snAIl-ML/snail-ML), [blog](https://medium.com/team-snail))| A web-enabled self-driving car based on a Raspberry Pi ([hardware blog here](https://medium.com/team-snail/building-self-driving-car-step-1-build-the-car-itself-hardware-only-e3f19e37773a)) that uses a webcam and a deep learning image classifier system to navigate basic tracks ([control system blog here](https://medium.com/team-snail/day-4-re-training-an-image-classifier-with-transfer-learning-b5c28cdd3496)). First use of [Python](https://www.python.org/) for web development, first experience with machine learning and writing APIs for hardware control.| 2 Weeks | Python, Flask, OpenCV, Tensorflow, Pytest |
 |[Facebook Clone](https://github.com/Byte4/acebook-byte4) | Group Project for Facebook clone using TDD. | 2 Weeks | Ruby on Rails, Postgres, Bootstrap, HTML, CSS, Heroku (Depoyment), Capybara, RSpec |  
 |[Twitter Clone](https://github.com/durranee/chitter-challenge) | Twitter Clone using Ruby, Sinatra and Postgres with TDD. | 2 days | Ruby, Sinatra, Postgres, Bootstrap, HTML, CSS,  Heroku (Depoyment), Capybara, RSpec |  
 |[Rock Paper Scissors](https://github.com/durranee/rps-challenge) | Rock Paper Scissors game using Ruby, Sinatra with TDD. | 2 days | Ruby, Sinatra, Bootstrap, HTML, CSS, Capybara, RSpec |
@@ -77,3 +77,4 @@ A 16-week intensive development bootcamp, focusing on:
 
 - Cricket
 - Swimming
+˜ˆ
