@@ -77,4 +77,3 @@ A 16-week intensive development bootcamp, focusing on:
 
 - Cricket
 - Swimming
-˜ˆ
