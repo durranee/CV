@@ -38,7 +38,7 @@ Whilst at Makers, we focused a lot on pair programming/grouping. I found being a
 
 ## Education
 
-#### Makers Academy (February 2018 to Present)
+#### Makers Academy (February 2018 to May 2018)
 
 A 16-week intensive development bootcamp, focusing on:
 
@@ -67,11 +67,11 @@ A 16-week intensive development bootcamp, focusing on:
 ## Experience
 
 [**theSkinShop**](http://the-skinshop.co.uk) (Apr 2016 - Ongoing)
-*Founder*
+*Founder*   
 **Digital Technology Trading Ltd** (Jan 2010 - Dec 2017)
-*IT Administrator*
+*IT Administrator*   
 **Country Group UK** (June 2007 - Nov 2010)
-*IT Administrator*
+*IT Administrator*   
 
 ## Interests
 
